@@ -47,4 +47,4 @@ Visual Studio Code
 
 
 
-<h2>We appreciate your visit.</h2>
+<h2>I appreciate your visit.</h2>
