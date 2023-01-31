@@ -31,7 +31,7 @@ Visual Studio Code
 ![a](https://user-images.githubusercontent.com/119785977/215805019-cec33bc5-1109-4c07-af9d-93a0b2543704.jpg)
 ![s](https://user-images.githubusercontent.com/119785977/215805924-79b89a1f-e850-451b-a53a-89475f08a543.jpg)
 
-![d](https://user-images.githubusercontent.com/119785977/215805061-66d02b69-657e-4729-b987-01bb5225c682.jpg)
+
 
 
 
