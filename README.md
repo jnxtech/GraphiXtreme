@@ -1,5 +1,5 @@
 # GraphiXtreme
-Websites that market second-hand graphics cards.
+Website for selling used graphics cards.
 In this project, our main focus has been on adding products to consumers' shopping carts and letting them choose how many items to purchase. Users have the option of changing the number of items in their cart. The user can then complete the order by paying. There is a method for administrators to add products, enter product counts, delete items, examine a dashboard of the website, and add new administrators.
 
 
