@@ -12,9 +12,9 @@ HTML
 
 CSS
 
-Javascript
+JavaScript
 
-MySql
+MySQL
 
 phpMyAdmin
 
